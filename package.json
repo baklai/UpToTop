@@ -1,0 +1,22 @@
+{
+  "name": "uptotop",
+  "version": "1.0.0",
+  "description": "JS Scroll Back To Top Button",
+  "main": "./src/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/baklai/UpToTop.git"
+  },
+  "keywords": [
+    "JavaScript"
+  ],
+  "author": "Dmitrii Baklai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/baklai/UpToTop/issues"
+  },
+  "homepage": "https://github.com/baklai/UpToTop#readme"
+}
